@@ -436,7 +436,7 @@
         locationName: "",
         radius: 500,
         zoom: 15,
-        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        mapTypeId: 'roadmap',
         styles: [],
         mapOptions: {},
         scrollwheel: true,
